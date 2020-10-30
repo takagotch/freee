@@ -6,7 +6,10 @@ https://k.secure.freee.co.jp/personal/submission
 https://github.com/takagotch/moneyforward
 
 
-```
+```.yml
+- a
+- b
+- c
 ```
 
 ```
