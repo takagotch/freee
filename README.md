@@ -8,7 +8,7 @@ https://github.com/takagotch/moneyforward
 
 ```.yml
 /*
-
+https://k.secure.freee.co.jp/personal/submission
 */
 
 - 開業届出書
