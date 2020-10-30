@@ -8,6 +8,8 @@ https://github.com/takagotch/moneyforward
 
 ```.yml
 /*
+会計
+創業計画書　開業届　
 https://k.secure.freee.co.jp/personal/submission
 */
 
